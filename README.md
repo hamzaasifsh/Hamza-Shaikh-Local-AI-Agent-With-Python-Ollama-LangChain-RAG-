@@ -1,0 +1,2 @@
+# Hamza-Shaikh-Local-AI-Agent-With-Python-Ollama-LangChain-RAG-
+Developed an AI-driven conversational system that answers user queries about restaurant reviews. Integrated LangChain with Ollama LLM (llama3.2) and ChromaDB for semantic search and context-aware responses. The system ingests a dataset of reviews, generates embeddings using OllamaEmbeddings (mxbai-embed-large), and stores them in Chroma.
